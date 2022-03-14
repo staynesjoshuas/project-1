@@ -1,0 +1,31 @@
+h1{
+    color: tomato;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+}
+
+
+.note{
+    font-size: 120%;
+    color: red;
+}
+body{
+    
+    background-image: url("hand.png");
+    background-position: right top;
+    background-repeat: no-repeat;
+}
+div{
+    border: 1px solid red;
+    margin: 100px;
+
+
+}
+p.ex1{
+    
+    text-align: center;
+}
